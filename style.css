@@ -293,15 +293,13 @@ body {
 
     width: 1440px;
     height: 400px;
-    margin-left: 10%;
+    margin-left: 12%;
     border-radius: 5px;
     background-image: url('images/Rectangle-9.png');
     background-repeat: no-repeat;
     text-align: center;
     margin-top: 128px;
-    padding-top:20px ;
-
-
+    padding-top: 20px;
 
 }
 
@@ -356,12 +354,13 @@ body {
 .footer-section {
     text-align: center;
     margin-top: 128px;
-   
-height: 449px;
-background: #111010;
-padding-top: 128px;
+
+    height: 449px;
+    background: #111010;
+    padding-top: 128px;
 
 }
+
 .footer-section-title {
     color: rgba(255, 255, 255, 1);
     text-align: center;
@@ -383,14 +382,16 @@ padding-top: 128px;
     line-height: 30px;
     margin-top: 24px;
 }
-.attherate{
+
+.attherate {
     color: rgba(255, 255, 255, 0.40);
-text-align: center;
-font-family: Lato;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+
+    font-weight: 400;
+    margin-top: 20px;
+
 }
 
 /* footer section end */
