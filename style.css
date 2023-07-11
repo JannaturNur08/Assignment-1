@@ -9,6 +9,9 @@ body {
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
 }
+.text-primary{
+    color: rgba(229, 84, 115, 1);
+}
 
 .button-primary {
     margin-top: 32px;
@@ -28,13 +31,15 @@ body {
     align-items: center;
     justify-content: space-between;
     background: rgba(229, 84, 115, 0.10);
+    
 }
 
 .banner-content {
     /* width:800px; */
-    width: 80%;
+    width: 100%;
     padding-left: 10%;
     padding-top: 100px;
+    
 }
 
 .banner-title {
@@ -180,3 +185,49 @@ body {
 }
 
 /* service section end  */
+
+/* sale section start */
+
+.sale-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgba(229, 84, 115, 0.10);
+    margin-top:128px ;
+}
+
+.sale-section-content {
+    /* width:800px; */
+    width: 100%;
+    margin-left: 20%;
+    
+    padding-top: 100px;
+    
+}
+
+.sale-section-title {
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+
+.sale-section-description {
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 32px;
+}
+
+.banner-flower {
+    margin-right: 20%;
+    padding-top: 100px;
+    padding-right: 200px;
+}
+/* sale section end */
