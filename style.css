@@ -155,7 +155,7 @@ body {
 /* featured flower section end */
 
 /* package section start */
-.package-section {
+.package-section{
     /* display: flex; */
     align-items: center;
     justify-content: space-between;
@@ -164,52 +164,46 @@ body {
     height: 1200px;
 
 }
-
-.mother-package {
+.mother-package{
     display: flex;
     width: 100%;
     height: 500px;
     padding-bottom: 100px;
 }
-
-.mother-package-content {
+.mother-package-content{
     width: 900px;
     margin-left: 200px;
     padding-top: 200px;
     margin-left: 100px;
 }
-
-.father-package {
+.father-package{
     display: flex;
     width: 100%;
     height: 500px;
     padding-bottom: 100px;
+    padding-left: 200px;
 }
-
-.father-package-content {
+.father-package-content{
     width: 900px;
     margin-left: 200px;
     padding-top: 200px;
 }
-
-#packag1-img {
+#packag1-img{
     padding-top: 80px;
 }
-
-.package-flower-img {
+.package-flower-img{
     width: 500px;
     height: 500px;
     padding-left: 100px;
 }
-
-.package-title {
+.package-title{
     color: #272727;
     /* text-align: center; */
     font-family: Lato;
     font-size: 40px;
-    padding-bottom: 20px;
+  padding-bottom: 20px;
     font-weight: 800;
-
+    
 }
 
 
