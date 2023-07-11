@@ -299,6 +299,7 @@ body {
     background-repeat: no-repeat;
     text-align: center;
     margin-top: 128px;
+    padding-top:20px ;
 
 
 
@@ -306,7 +307,7 @@ body {
 
 .subscribe-details {
 
-    margin-top: 128px;
+    margin-top: 100px;
     /* border: 2px solid green;
     */
 }
@@ -345,3 +346,5 @@ body {
 #subscribe-btn {
     margin-left: 16px;
 }
+
+/* main section end */
