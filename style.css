@@ -286,3 +286,56 @@ body {
     justify-content: center;
     margin-top: 48px;
 }
+
+/* subscribe section start */
+
+.subscribe-section{
+
+    width:1440px;
+    height: 400px;
+    margin-left: 10%;
+    border-radius: 5px;
+    background-image: url('images/Rectangle-9.png');
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 128px;
+    
+    border: 2px solid red;
+    
+}
+
+.subscribe-details{
+    
+     margin-top: 128px;
+     border: 2px solid green;
+   
+}
+.subscribe-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+border: 2px solid red;
+}
+.subscribe-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 16px;
+}
+#email-text-area{
+   
+height: 23px;
+border-radius: 5px;
+background: #FFF;
+border: 2px solid purple;
+margin-top: 16px;
+padding: 20px 513px 20px 20px;
+}
