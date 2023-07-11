@@ -167,30 +167,34 @@ body {
 
 .mother-package {
     display: flex;
-    width: 100%;
+    justify-content: center;
+    /* width: 100%; */
     height: 500px;
     padding-bottom: 100px;
 }
 
 .mother-package-content {
-    width: 900px;
+    width: 700px;
     margin-left: 200px;
     padding-top: 200px;
-    margin-left: 100px;
+    margin-left: 50px;
 }
 
 .father-package {
     display: flex;
-    width: 100%;
+    justify-content: center;
+
     height: 500px;
     padding-bottom: 100px;
-    padding-left: 200px;
+    padding-left: 250px;
 }
 
 .father-package-content {
-    width: 900px;
-    margin-left: 200px;
+    width: 700px;
+    margin-left: 150px;
+    margin-right: 200px;
     padding-top: 200px;
+    
 }
 
 #package1-img {
